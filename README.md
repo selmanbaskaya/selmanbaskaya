@@ -19,3 +19,10 @@
 [![](https://img.shields.io/badge/flask-cD1?style=for-the-badge&logo=flask)]()
 [![](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript)]()
 [![](https://img.shields.io/badge/react-cD1?style=for-the-badge&logo=react)]()
+
+## Blogs
+
+### Medium
+* [PHP Version Fatal Error](https://medium.com/i̇yi-programlama/php-versiyonu-ölümcül-hatasından-kurtulmak-php-version-fatal-error-2d121e106ed3)
+* [Python Django, Framework ve MVT Yapısı Nedir?](https://medium.com/i̇yi-programlama/python-django-framework-ve-mvt-yapısı-nedir-4ea44e9e1186)
+* [MySQL Workbench’te Veritabanı ER Diyagramı Oluşturma](https://medium.com/i̇yi-programlama/mysql-workbenchte-veritabanı-er-diyagramı-oluşturma-97b98e18eb7c)
