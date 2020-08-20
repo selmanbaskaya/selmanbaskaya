@@ -1,11 +1,10 @@
 # Selam, ben Selman. 👋
-🌐 [website][sdfsf] **|** 
-🐦 [twitter][twitter] **|** 
-✍️ [medium][medium] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
-📧 [gmail][linkedin]
-[![Mail Badge](https://img.shields.io/badge/mertcobanov@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:mertcobanov@gmail.com)](mailto:mertcobanov@gmail.com)
+🌐 [website][Website] **|** 
+🐦 [twitter][Twitter] **|** 
+✍️ [medium][Medium] **|** 
+📷 [instagram][Instagram] **|** 
+👔 [linkedin][Linkedin]
+📧 [gmail][selmanbaskaya1@gmail.com]
 
 [website]: https://selmanbaskaya.com
 [twitter]: https://twitter.com/selmanbaskayaa
