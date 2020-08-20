@@ -3,7 +3,7 @@
 🐦 [Twitter][Twitter] **|** 
 ✍️ [Medium][Medium] **|** 
 📷 [Instagram][Instagram] **|** 
-👔 [Linkedin][Linkedin]
+👔 [Linkedin][Linkedin] **|** 
 📧 [selmanbaskaya1@gmail.com]
 
 [website]: https://selmanbaskaya.com
