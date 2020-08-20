@@ -1,10 +1,10 @@
 # Selam, ben Selman. 👋
-🌐 [website][Website] **|** 
-🐦 [twitter][Twitter] **|** 
-✍️ [medium][Medium] **|** 
-📷 [instagram][Instagram] **|** 
-👔 [linkedin][Linkedin]
-📧 [gmail][selmanbaskaya1@gmail.com]
+🌐 [Website][Website] **|** 
+🐦 [Twitter][Twitter] **|** 
+✍️ [Medium][Medium] **|** 
+📷 [Instagram][Instagram] **|** 
+👔 [Linkedin][Linkedin]
+📧 [selmanbaskaya1][selmanbaskaya1@gmail.com]
 
 [website]: https://selmanbaskaya.com
 [twitter]: https://twitter.com/selmanbaskayaa
