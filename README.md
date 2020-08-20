@@ -4,7 +4,7 @@
 ✍️ [Medium][Medium] **|** 
 📷 [Instagram][Instagram] **|** 
 👔 [Linkedin][Linkedin]
-📧 [selmanbaskaya1][selmanbaskaya1@gmail.com]
+📧 [selmanbaskaya1@gmail.com]
 
 [website]: https://selmanbaskaya.com
 [twitter]: https://twitter.com/selmanbaskayaa
