@@ -1,4 +1,12 @@
-### Hi there 👋
+### Selam, ben Selman. 👋
+
+# Interests
+[![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
+[![](https://img.shields.io/badge/numpy-cD1?style=for-the-badge&logo=numpy)]()
+[![](https://img.shields.io/badge/flask-cD1?style=for-the-badge&logo=flask)]()
+[![](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript)]()
+[![](https://img.shields.io/badge/react-cD1?style=for-the-badge&logo=react)]()
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
