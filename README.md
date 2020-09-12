@@ -20,6 +20,7 @@
 [![](https://img.shields.io/badge/javascript-cD1?style=for-the-badge&logo=javascript)]()
 [![](https://img.shields.io/badge/react-cD1?style=for-the-badge&logo=react)]()
 [![](https://img.shields.io/badge/java-cD1?style=for-the-badge&logo=java)]()
+[![](https://img.shields.io/badge/php-cD1?style=for-the-badge&logo=php)]()
 
 ## Blogs
 
