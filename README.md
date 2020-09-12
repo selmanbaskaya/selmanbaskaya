@@ -23,6 +23,12 @@
 [![](https://img.shields.io/badge/php-cD1?style=for-the-badge&logo=php)]()
 [![](https://img.shields.io/badge/mysql-cD1?style=for-the-badge&logo=mysql)]()
 
+<img src="https://github.com/github/explore/blob/master/topics/go/go.png?raw=true" height="40" />
+  <img src="https://github.com/github/explore/blob/master/topics/nodejs/nodejs.png?raw=true" height="40" />
+  </p>
+  
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=selmanbaskaya&show_icons=true" alt="selmanbaskaya" /> </p>
+
 ## Blogs
 
 ### Medium
