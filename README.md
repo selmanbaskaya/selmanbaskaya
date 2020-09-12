@@ -24,7 +24,7 @@
 [![](https://img.shields.io/badge/mysql-cD1?style=for-the-badge&logo=mysql)]()
 
 # What Have I Done
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=selmanbaskaya&show_icons=true" alt="selmanbaskaya" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=selmanbaskaya&show_icons=true" alt="selmanbaskaya" /> </p> 
 
 ## Blogs
 
