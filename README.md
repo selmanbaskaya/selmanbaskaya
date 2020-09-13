@@ -1,4 +1,4 @@
-# Selam, ben Selman. 👋
+# Hi, i'm Selman. 👋
 🌐 [Website][Website] **|** 
 🐦 [Twitter][Twitter] **|** 
 ✍️ [Medium][Medium] **|** 
