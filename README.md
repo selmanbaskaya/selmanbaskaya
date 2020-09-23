@@ -12,6 +12,8 @@
 [instagram]: https://instagram.com/selmanbaskaya
 [linkedin]: https://linkedin.com/in/selmanbaskaya
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=selmanbaskaya" alt="selmanbaskaya" /> </p>
+
 # Interests
 [![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
 [![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
