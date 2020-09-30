@@ -1,16 +1,10 @@
 # Hi, i'm Selman. 👋
-🌐 [Website][Website] **|** 
-🐦 [Twitter][Twitter] **|** 
-✍️ [Medium][Medium] **|** 
-📷 [Instagram][Instagram] **|** 
-👔 [Linkedin][Linkedin] **|** 
-📧 [selmanbaskaya1@gmail.com]
-
-[website]: https://selmanbaskaya.com
-[twitter]: https://twitter.com/selmanbaskayaa
-[medium]: https://medium.com/@selmanbaskaya
-[instagram]: https://instagram.com/selmanbaskaya
-[linkedin]: https://linkedin.com/in/selmanbaskaya
+[![](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/selmanbaskaya)
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/selmanbaskaya)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selmanbaskaya/)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@selmanbaskaya)
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/selmanbaskaya)
+[![Mail Badge](https://img.shields.io/badge/selmanbaskaya@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:selmanbaskaya@gmail.com)](mailto:selmanbaskaya@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selmanbaskaya" alt="selmanbaskaya" /> </p>
 
