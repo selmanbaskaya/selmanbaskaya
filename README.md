@@ -1,8 +1,10 @@
 # Hi, i'm Selman. 👋
+
+- 🌱 I’m currently learning **[Laravel](https://laravel.com/)**
+
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/selmanbaskaya)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selmanbaskaya/)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@selmanbaskaya)
-[![](https://img.shields.io/badge/hasnode-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://selmanbaskaya.hashnode.dev/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selmanbaskaya" alt="selmanbaskaya" /> </p>
 
