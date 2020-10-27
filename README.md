@@ -1,6 +1,6 @@
 # Hi, i'm Selman. 👋
 
-- 🌱 I’m currently learning **[Laravel](https://laravel.com/)** & **[React.js](https://reactjs.org/)**
+- 🧠 I am currently learning **[Laravel](https://laravel.com/)** & **[Vue.js](https://vuejs.org/)**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selmanbaskaya" alt="selmanbaskaya" /> </p>
 
