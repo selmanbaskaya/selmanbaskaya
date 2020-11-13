@@ -1,7 +1,7 @@
 # Hi, i'm Selman. 👋
 
 - 🧠 I am currently learning **[Laravel](https://laravel.com/)** & **[Vue.js](https://vuejs.org/)**
-- 💻 I have worked with C++, Java, Python and **[Flasks](https://flask.palletsprojects.com/en/1.1.x/)** before. (I'm still coding with Python.)
+- 💻 I have worked with C++, Java, Python and **[Flask](https://flask.palletsprojects.com/en/1.1.x/)** before. (I'm still coding with Python.)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selmanbaskaya" alt="selmanbaskaya" /> </p>
 
