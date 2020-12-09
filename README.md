@@ -4,7 +4,7 @@
 - 💻 I've worked with C++, Java, Python and **[Flask](https://flask.palletsprojects.com/en/1.1.x/)** before. (I'm still coding with Python.)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selmanbaskaya" alt="selmanbaskaya" /> </p>
-----
+
 [![](https://img.shields.io/twitter/follow/selmanbaskaya?style=social)](https://www.twitter.com/selmanbaskaya)
 
 # What Have I Done
