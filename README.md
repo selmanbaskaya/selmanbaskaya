@@ -1,9 +1,10 @@
 # Hi, i'm Selman. 👋
 
-- 🧠 I am currently learning **[Laravel](https://laravel.com/)** & **[Vue.js](https://vuejs.org/)**
-- 💻 I have worked with C++, Java, Python and **[Flask](https://flask.palletsprojects.com/en/1.1.x/)** before. (I'm still coding with Python.)
+- 🧠 I'm currently learning **[Laravel](https://laravel.com/)**, **[Vue.js](https://vuejs.org/)** and Machine Learning
+- 💻 I've worked with C++, Java, Python and **[Flask](https://flask.palletsprojects.com/en/1.1.x/)** before. (I'm still coding with Python.)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selmanbaskaya" alt="selmanbaskaya" /> </p>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=selmanbaskaya&show_icons=true&theme=dark">
+[![](https://img.shields.io/twitter/follow/selmanbaskaya?style=social)](https://www.twitter.com/selmanbaskaya)
 
 # What Have I Done
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=selmanbaskaya&show_icons=true" alt="selmanbaskaya" /> </p> 
