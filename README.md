@@ -13,7 +13,6 @@
 ## Blogs
 
 ### Medium
-* ]}
 
 * [Vue.js ile Component İlişkileri](https://medium.com/@selmanbaskaya/vue-js-ile-component-i%CC%87li%C5%9Fkileri-f62da6d399a2)
 * [Veri Görselleştirme Nedir ve Neden İhtiyaç Duyarız?](https://medium.com/i̇yi-programlama/veri-görselleştirme-nedir-ve-neden-i̇htiyaç-duyarız-97825c35b9a6)
