@@ -10,6 +10,11 @@
 # What Have I Done
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=selmanbaskaya&show_icons=true&theme=merko">
 
+## YouTube
+
+- [YouTube Channel](https://www.youtube.com/channel/UCqaZGIkvE8IrgyCdnTAF8Hw)
+- [Tanıtım | Kanal İçeriği | Machine Learning & Web Development Projesi #0](https://www.youtube.com/watch?v=BkprXbS6tA4)
+
 ## Blogs
 
 ### Medium
