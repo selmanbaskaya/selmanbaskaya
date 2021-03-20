@@ -13,8 +13,8 @@
 ## YouTube
 
 - [YouTube Channel](https://www.youtube.com/channel/UCqaZGIkvE8IrgyCdnTAF8Hw)
-- [Tanıtım | Kanal İçeriği | Machine Learning & Web Development Projesi #0](https://www.youtube.com/watch?v=BkprXbS6tA4)
-- [Veri Tipleri, Kolon ve Encoding İşlemleri | Machine Learning & Web Development Projesi #1](https://www.youtube.com/watch?v=uba0iHWMsCY)
+- [Machine Learning & Web Development Video Series](https://www.youtube.com/watch?v=BkprXbS6tA4)
+- [Vue - Vuex Video Series](https://www.youtube.com/watch?v=OD9jFkHaHkA)
 
 ## Blogs
 
