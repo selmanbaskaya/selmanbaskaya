@@ -12,7 +12,7 @@
 
 ## YouTube
 
-- [YouTube Channel](https://www.youtube.com/channel/UCqaZGIkvE8IrgyCdnTAF8Hw)
+- [YouTube Channel](https://www.youtube.com/SelmanBaskaya)
 - [Machine Learning & Web Development Video Series](https://www.youtube.com/watch?v=BkprXbS6tA4)
 - [Vue - Vuex Video Series](https://www.youtube.com/watch?v=OD9jFkHaHkA)
 
