@@ -1,6 +1,6 @@
 # Hi, i'm Selman. 👋
 
-- 🧠 I'm currently learning **[Laravel](https://laravel.com/)**, **[Vue.js](https://vuejs.org/)** and Machine Learning
+- 🧠 I'm currently learning **[Vue.js](https://vuejs.org/)** and Machine Learning
 - 💻 I've worked with C++, Java, Python and **[Flask](https://flask.palletsprojects.com/en/1.1.x/)** before. (I'm still coding with Python & Flask.)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selmanbaskaya" alt="selmanbaskaya" /> </p>
