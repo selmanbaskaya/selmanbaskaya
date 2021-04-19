@@ -15,7 +15,7 @@
 - [YouTube Channel](https://www.youtube.com/SelmanBaskaya)
 - [Machine Learning & Web Development Video Series](https://www.youtube.com/watch?v=BkprXbS6tA4)
 - [Vue - Vuex Video Series](https://www.youtube.com/watch?v=OD9jFkHaHkA)
-- [Live Broadcasts](https://www.youtube.com/watch?v=1mNBDlKHdBc)
+- [Live Broadcasts](https://www.youtube.com/watch?v=Sp81Eul-Jlo&list=PL0-amVGhM48fv1cOjo7BHPaQjcWGuzZVD&index=2)
 
 ## Blogs
 
