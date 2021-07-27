@@ -1,7 +1,7 @@
 # Hi, i'm Selman. 👋
 
-- 🧠 I'm currently learning **[Vue.js](https://vuejs.org/)** and Machine Learning
-- 💻 I've worked with C++, Java, Python and **[Flask](https://flask.palletsprojects.com/en/1.1.x/)** before. (I'm still coding with Python & Flask.)
+- 🔭 I’m currently working on Vue.Js, Quasar, Flask and Python with Web App Programming
+- 💻 I've worked with C++, Java, PHP.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selmanbaskaya" alt="selmanbaskaya" /> </p>
 
