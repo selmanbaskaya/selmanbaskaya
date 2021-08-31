@@ -1,6 +1,7 @@
 # Hi, i'm Selman. 👋
 
 - 🔭  I’m currently working on Vue.Js, Quasar, Flask and Python with Web App Programming
+- 🧶  I'm currently learning Express.js
 - 💻  I've worked with C++, Java, PHP.
 - 📫  How to reach me: Mail on selmanbaskaya1@gmail.com
 
