@@ -17,7 +17,7 @@
 <img align="left" alt="ThreeJS" width="30px" src="https://cdn.svgporn.com/logos/threejs.svg" />
 <img align="left" alt="Python" width="30px" src="https://cdn.svgporn.com/logos/python.svg" />
 <img align="left" alt="Flask" width="30px" src="https://cdn.svgporn.com/logos/flask.svg" />
-<img align="left" alt="Express" width="30px" src="https://cdn.svgporn.com/logos/express.svg" />
+<img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="Firebase" width="30px" src="https://cdn.svgporn.com/logos/firebase.svg" />
 <img align="left" alt="PostgreSQL" width="30px" src="https://cdn.svgporn.com/logos/postgresql.svg" />
 <img align="left" alt="NPM" width="30px" src="https://cdn.svgporn.com/logos/npm.svg" />
