@@ -9,7 +9,7 @@
 
 [![](https://img.shields.io/twitter/follow/selmanbaskaya?style=social)](https://www.twitter.com/selmanbaskaya)
 
-# Technology Stack:
+# Technology Stack
 
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.svgporn.com/logos/javascript.svg" />
 <img align="left" alt="VueJS" width="30px" src="https://cdn.svgporn.com/logos/vue.svg" />
