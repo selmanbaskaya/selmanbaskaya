@@ -23,6 +23,7 @@
 <img align="left" alt="NPM" width="30px" src="https://cdn.svgporn.com/logos/npm.svg" />
 <img align="left" alt="Github Actions" width="30px" src="https://cdn.svgporn.com/logos/github-actions.svg" />
 <img align="left" alt="Nginx" width="30px" src="https://cdn.svgporn.com/logos/nginx.svg" />
+<img align="left" alt="Git" width="30px" src="https://cdn.svgporn.com/logos/git.svg" />
 <br />
 
 # What Have I Done
