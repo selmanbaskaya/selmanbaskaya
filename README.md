@@ -12,18 +12,18 @@
 # Technology Stack
 
 <img align="left" alt="JavaScript" width="30px" src="icons/js.png" />
-<img align="left" alt="VueJS" width="30px" src="https://cdn.svgporn.com/logos/vue.svg" />
+<img align="left" alt="JavaScript" width="30px" src="icons/vue.png" />
 <img align="left" alt="Quasar Framework" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quasar.svg" />
 <img align="left" alt="ThreeJS" width="30px" src="https://cdn.svgporn.com/logos/threejs.svg" />
-<img align="left" alt="Python" width="30px" src="https://cdn.svgporn.com/logos/python.svg" />
-<img align="left" alt="Flask" width="30px" src="https://cdn.svgporn.com/logos/flask.svg" />
-<img align="left" alt="Express" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="Firebase" width="30px" src="https://cdn.svgporn.com/logos/firebase.svg" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.svgporn.com/logos/postgresql.svg" />
-<img align="left" alt="NPM" width="30px" src="https://cdn.svgporn.com/logos/npm.svg" />
+<img align="left" alt="JavaScript" width="30px" src="icons/python.png" />
+<img align="left" alt="JavaScript" width="30px" src="icons/flask.png" />
+<img align="left" alt="JavaScript" width="30px" src="icons/nodejs.png" />
+<img align="left" alt="JavaScript" width="30px" src="icons/firebase.png" />
+<img align="left" alt="JavaScript" width="30px" src="icons/psql.png" />
+<img align="left" alt="JavaScript" width="30px" src="icons/npm.png" />
 <img align="left" alt="Github Actions" width="30px" src="https://cdn.svgporn.com/logos/github-actions.svg" />
-<img align="left" alt="Nginx" width="30px" src="https://cdn.svgporn.com/logos/nginx.svg" />
-<img align="left" alt="Git" width="30px" src="https://cdn.svgporn.com/logos/git.svg" />
+<img align="left" alt="JavaScript" width="30px" src="icons/nginx.png" />
+<img align="left" alt="JavaScript" width="30px" src="icons/git.png" />
 <br />
 
 # What Have I Done
