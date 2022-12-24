@@ -13,7 +13,7 @@
 
 <img align="left" alt="JavaScript" width="30px" src="icons/js.png" />
 <img align="left" alt="JavaScript" width="30px" src="icons/vue.png" />
-<img align="left" alt="Quasar Framework" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quasar.svg" />
+<img align="left" alt="JavaScript" width="30px" src="icons/quasar.png" />
 <img align="left" alt="ThreeJS" width="30px" src="https://cdn.svgporn.com/logos/threejs.svg" />
 <img align="left" alt="JavaScript" width="30px" src="icons/python.png" />
 <img align="left" alt="JavaScript" width="30px" src="icons/flask.png" />
