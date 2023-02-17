@@ -28,7 +28,7 @@
 <br />
 
 # What Have I Done
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=selmanbaskaya&count_private=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=selmanbaskaya&count_private=true&show_icons=true&theme=cobalt">
 
 ## YouTube
 
