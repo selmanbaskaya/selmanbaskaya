@@ -1,7 +1,7 @@
 # Hi, i'm Selman. 👋
 
-- 🔭  I'm currently working on Vue.Js, Quasar, Flask, Python, Firebase and PSQL with Low&No-Code Web Application Programming.
-- 🧶  I'm currently learning Express.js
+- 🔭  I'm currently working on Vue.Js, Quasar, Node.js, Flask, Python, Redis, Firebase and PSQL with Low&No-Code Web Application Programming.
+- 🧶  I'm currently learning Express.js and Redis
 - 💻  I've worked with C++, Java, PHP.
 - 📫  How to reach me: Mail on selmanbaskaya1@gmail.com
 
@@ -11,20 +11,21 @@
 
 # Technology Stack
 
-<img align="left" alt="JavaScript" width="30px" src="icons/js.png" />
-<img align="left" alt="JavaScript" width="30px" src="icons/vue.png" />
-<img align="left" alt="JavaScript" width="30px" src="icons/quasar.png" />
-<img align="left" alt="ThreeJS" width="30px" src="https://cdn.svgporn.com/logos/threejs.svg" />
-<img align="left" alt="JavaScript" width="30px" src="icons/interact.png" />
-<img align="left" alt="JavaScript" width="30px" src="icons/python.png" />
-<img align="left" alt="JavaScript" width="30px" src="icons/flask.png" />
-<img align="left" alt="JavaScript" width="30px" src="icons/nodejs.png" />
-<img align="left" alt="JavaScript" width="30px" src="icons/firebase.png" />
-<img align="left" alt="JavaScript" width="30px" src="icons/psql.png" />
-<img align="left" alt="JavaScript" width="30px" src="icons/npm.png" />
-<img align="left" alt="Github Actions" width="30px" src="https://cdn.svgporn.com/logos/github-actions.svg" />
-<img align="left" alt="JavaScript" width="30px" src="icons/nginx.png" />
-<img align="left" alt="JavaScript" width="30px" src="icons/git.png" />
+<img align="left" alt="js" width="30px" src="icons/js.png" />
+<img align="left" alt="vue" width="30px" src="icons/vue.png" />
+<img align="left" alt="quasar" width="30px" src="icons/quasar.png" />
+<img align="left" alt="threejs" width="30px" src="https://cdn.svgporn.com/logos/threejs.svg" />
+<img align="left" alt="interactjs" width="30px" src="icons/interact.png" />
+<img align="left" alt="python" width="30px" src="icons/python.png" />
+<img align="left" alt="flask" width="30px" src="icons/flask.png" />
+<img align="left" alt="nodejs" width="30px" src="icons/nodejs.png" />
+<img align="left" alt="redis" width="30px" src="https://cdn.svgporn.com/logos/redis.svg" />
+<img align="left" alt="firebase" width="30px" src="icons/firebase.png" />
+<img align="left" alt="psql" width="30px" src="icons/psql.png" />
+<img align="left" alt="npm" width="30px" src="icons/npm.png" />
+<img align="left" alt="githubactions" width="30px" src="https://cdn.svgporn.com/logos/github-actions.svg" />
+<img align="left" alt="nginx" width="30px" src="icons/nginx.png" />
+<img align="left" alt="git" width="30px" src="icons/git.png" />
 <br />
 
 # What Have I Done
