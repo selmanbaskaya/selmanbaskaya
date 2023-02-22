@@ -1,8 +1,7 @@
-# This is Selman. I am an Full Stack Developer in Istanbul 👋
+# This is Selman. I'm an Full Stack Developer in Istanbul 👋
 
-- 🔭  I'm currently working on Vue.js, Quasar Framework, Node.js, Flask, Python, Redis, Firebase and PostgreSQL with Low&No-Code Web Application Programming.
-- 🧶  I'm currently learning Express.js and Redis
-- 💻  I've worked with C++, Java, PHP.
+- 💻  I'm currently working on Vue.js, Quasar Framework, Node.js, Flask, Python, Redis, Firebase and PostgreSQL with Low&No-Code Web Application Programming.
+- 🔭  I'm currently learning Express.js and Redis
 - 📫  How to reach me: Mail on selmanbaskaya1@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selmanbaskaya" alt="selmanbaskaya" /> </p>
