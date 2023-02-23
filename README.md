@@ -1,4 +1,4 @@
-# This is Selman. I'm an Full Stack Developer in Istanbul 👋
+# This is Selman. I'm Full Stack Developer in Istanbul 👋
 
 - 💻  I'm currently working on Vue.js, Quasar Framework, Node.js, Flask, Python, Redis, Firebase and PostgreSQL with Low&No-Code Web Application Programming.
 - 🔭  I'm currently learning Express.js and Redis
