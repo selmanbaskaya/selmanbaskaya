@@ -4,8 +4,6 @@
 - 🔭  I'm currently learning Express.js and Redis
 - 📫  How to reach me: Mail on selmanbaskaya1@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selmanbaskaya" alt="selmanbaskaya" /> </p>
-
 [![](https://img.shields.io/twitter/follow/selmanbaskaya?style=social)](https://www.twitter.com/selmanbaskaya)
 
 # Technology Stack
