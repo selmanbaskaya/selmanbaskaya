@@ -12,14 +12,14 @@
 <img align="left" alt="vue" width="30px" src="icons/vue.png" />
 <img align="left" alt="quasar" width="30px" src="icons/quasar.png" />
 <img align="left" alt="threejs" width="30px" src="https://cdn.svgporn.com/logos/threejs.svg" />
-<img align="left" alt="interactjs" width="30px" src="icons/interact.png" />
+<img align="left" alt="interactjs" width="70px" src="icons/interact.png" />
 <img align="left" alt="python" width="30px" src="icons/python.png" />
 <img align="left" alt="flask" width="30px" src="icons/flask.png" />
 <img align="left" alt="nodejs" width="30px" src="icons/nodejs.png" />
 <img align="left" alt="redis" width="30px" src="https://cdn.svgporn.com/logos/redis.svg" />
 <img align="left" alt="firebase" width="30px" src="icons/firebase.png" />
 <img align="left" alt="psql" width="30px" src="icons/psql.png" />
-<img align="left" alt="docker" width="50px" src="https://cdn.svgporn.com/logos/docker.svg" />
+<img align="left" alt="docker" width="70px" src="https://cdn.svgporn.com/logos/docker.svg" />
 <img align="left" alt="npm" width="30px" src="icons/npm.png" />
 <img align="left" alt="githubactions" width="30px" src="https://cdn.svgporn.com/logos/github-actions.svg" />
 <img align="left" alt="nginx" width="30px" src="icons/nginx.png" />
