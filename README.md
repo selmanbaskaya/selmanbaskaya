@@ -19,6 +19,7 @@
 <img align="left" alt="redis" width="30px" src="https://cdn.svgporn.com/logos/redis.svg" />
 <img align="left" alt="firebase" width="30px" src="icons/firebase.png" />
 <img align="left" alt="psql" width="30px" src="icons/psql.png" />
+<img align="left" alt="docker" width="30px" src="icons/docker.png" />
 <img align="left" alt="npm" width="30px" src="icons/npm.png" />
 <img align="left" alt="githubactions" width="30px" src="https://cdn.svgporn.com/logos/github-actions.svg" />
 <img align="left" alt="nginx" width="30px" src="icons/nginx.png" />
