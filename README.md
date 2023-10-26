@@ -11,8 +11,6 @@
 <img align="left" alt="js" width="30px" src="icons/js.png" />
 <img align="left" alt="vue" width="30px" src="icons/vue.png" />
 <img align="left" alt="quasar" width="30px" src="icons/quasar.png" />
-<img align="left" alt="threejs" width="30px" src="https://cdn.svgporn.com/logos/threejs.svg" />
-<img align="left" alt="interactjs" width="70px" src="icons/interact.png" />
 <img align="left" alt="python" width="30px" src="icons/python.png" />
 <img align="left" alt="flask" width="30px" src="icons/flask.png" />
 <img align="left" alt="nodejs" width="30px" src="icons/nodejs.png" />
