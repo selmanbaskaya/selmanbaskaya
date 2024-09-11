@@ -8,20 +8,23 @@
 
 # Technology Stack
 
-<img align="left" alt="js" width="30px" src="icons/js.png" />
-<img align="left" alt="vue" width="30px" src="icons/vue.png" />
-<img align="left" alt="quasar" width="30px" src="icons/quasar.png" />
-<img align="left" alt="python" width="30px" src="icons/python.png" />
-<img align="left" alt="flask" width="30px" src="icons/flask.png" />
-<img align="left" alt="nodejs" width="30px" src="icons/nodejs.png" />
-<img align="left" alt="redis" width="30px" src="https://cdn.svgporn.com/logos/redis.svg" />
-<img align="left" alt="firebase" width="30px" src="icons/firebase.png" />
-<img align="left" alt="psql" width="30px" src="icons/psql.png" />
-<img align="left" alt="docker" width="70px" src="https://cdn.svgporn.com/logos/docker.svg" />
-<img align="left" alt="npm" width="30px" src="icons/npm.png" />
-<img align="left" alt="githubactions" width="30px" src="https://cdn.svgporn.com/logos/github-actions.svg" />
-<img align="left" alt="nginx" width="30px" src="icons/nginx.png" />
-<img align="left" alt="git" width="30px" src="icons/git.png" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img alt="js" width="30px" src="icons/js.png" />
+  <img alt="vue" width="30px" src="icons/vue.png" />
+  <img alt="quasar" width="30px" src="icons/quasar.png" />
+  <img alt="python" width="30px" src="icons/python.png" />
+  <img alt="flask" width="30px" src="icons/flask.png" />
+  <img alt="nodejs" width="30px" src="icons/nodejs.png" />
+  <img alt="redis" width="30px" src="https://cdn.svgporn.com/logos/redis.svg" />
+  <img alt="firebase" width="30px" src="icons/firebase.png" />
+  <img alt="psql" width="30px" src="icons/psql.png" />
+  <img alt="docker" width="70px" src="https://cdn.svgporn.com/logos/docker.svg" />
+  <img alt="npm" width="30px" src="icons/npm.png" />
+  <img alt="githubactions" width="30px" src="https://cdn.svgporn.com/logos/github-actions.svg" />
+  <img alt="nginx" width="30px" src="icons/nginx.png" />
+  <img alt="git" width="30px" src="icons/git.png" />
+</div>
+
 <br />
 
 # What Have I Done
