@@ -1,7 +1,6 @@
 # Hi, I'm Selman. I'm Full Stack Developer in Istanbul 👋
 
 - 💻  I'm currently working on Vue.js, Quasar Framework (SPA & PWA), Node.js, Flask, Python, Redis, SocketIO, Firebase, PostgreSQL and Docker with Low&No-Code Web Application Programming.
-- 🔭  I'm currently learning Docker
 - 📫  How to reach me: Mail on selmanbaskaya1@gmail.com
 
 [![](https://img.shields.io/twitter/follow/selmanbaskaya?style=social)](https://www.twitter.com/selmanbaskaya)
